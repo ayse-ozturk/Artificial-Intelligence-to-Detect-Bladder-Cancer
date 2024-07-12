@@ -1,0 +1,25 @@
+Ayşenur öztürk-200707037
+
+Projeyi sorunsuz bir şekilde çalıştırmak için verilen adımlara göre sırayla çalıştırılmalı.
+Projeyi çalıştırmak için:
+1-  proje_Aysenur_Ozturk_2007037.ipynb dosyası açılmalı. 
+2-  Dosya içerisindeki en başta bulunan "project_directory" değişkenini 
+    kendi dizinize göre değiştirmeniz gerekiyor.
+2.1-"YÜKLE" adlı başlığı altındaki hücreleri çalıştırarak. Önceden oluşturulmuş X_train
+     ,y_train vb. değişkenleri ve eğitilmiş modelleri yükleyebilirsiniz.
+2.2- Ya da "VERİ ÖN İŞLEME VE VERİ SETİNİ BÖLME" adlı başlıktan başlayarak sırayla 
+     hücreleri çalıştırırsanız sorunsuz çalışacaktır.
+Not:Eğitme işlemi uzun sürdüğü için projeyi sadece yükle kısmını çalıştırarak 
+çıktı alınabilcek şekilde hazırladım.
+Web kısmını çalıştırmak için:
+1-  web_Aysenur_Ozturk_200707037.py dosyasını açın.
+2-  Dosya içerisindeki en başta bulunan "project_directory" değişkenini 
+    kendi dizinize göre değiştirmeniz gerekiyor. 
+3-  kodu derleyin ve terminale "streamlit run web_Aysenur_Ozturk_200707037" yazın. 
+    Sorunsuz çalışacaktır.
+Dosya içeriği hakkında bilgilendirme:
+"grafik" dosyası içinde web site içinde kullandığım grafikler bulunmaktadır.
+"model" dosyası içinde önceden eğittim modeller bulunmaktadır.
+"dizinler" dosyası içinde önceden veri setini böldüğüm değişkenlerin dizinleri bulunmaktadır.
+"dataset" dosyası veri setimin görsellerinin bulunduğu dosyadır.
+ "annotations.csv" dosyası veri setimin etiket değerlerinin bulunduğu dosyadır.
